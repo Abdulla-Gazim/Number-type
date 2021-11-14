@@ -1,0 +1,28 @@
+.all{
+	width:250px;
+	height:230px;
+	border:5px solid blue;
+	background-color: #ddd;
+	margin:20px auto;
+	
+	}
+	.input1{
+	width:97%;
+	height:30px;
+	
+	margin-top:10px
+	
+	}
+	.button1{
+	background-color:#aff;
+	cursor: pointer;
+	margin:10px auto;
+	margin-left:40%;
+	border: solid 1px black;
+	}
+	.text{
+	direction:rtl;
+	margin:0 5px;
+	border:1px solid black;
+	height:30px;
+	}
